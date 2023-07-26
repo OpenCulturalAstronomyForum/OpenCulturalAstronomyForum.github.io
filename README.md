@@ -1,1 +1,1 @@
-# ocaf.github.io
+# Open Cultural Astronomy Forum (OCAF)
