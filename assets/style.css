@@ -449,6 +449,10 @@ table {
   margin: 1.5rem 0;
 }
 
+table tr:nth-child(even) td {
+  background: transparent;
+}
+
 td,
 th {
   border: 1px solid var(--border);
