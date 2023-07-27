@@ -449,11 +449,6 @@ table {
   margin: 1.5rem 0;
 }
 
-table.no-zebra tbody tr:nth-child(even) td,
-table.no-zebra tbody tr.even td {
-  background: transparent;
-}
-
 td,
 th {
   border: 1px solid var(--border);
@@ -468,7 +463,7 @@ th {
 
 tr:nth-child(even) {
   /* Set every other cell slightly darker. Improves readability. */
-  background: var(--accent-bg);
+  background: transparent;
 }
 
 table caption {
